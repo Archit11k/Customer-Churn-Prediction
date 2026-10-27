@@ -1,0 +1,56 @@
+{
+  "Majority-class baseline (baseline)": {
+    "tn": 1035,
+    "fp": 0,
+    "fn": 374,
+    "tp": 0
+  },
+  "Logistic Regression (baseline)": {
+    "tn": 749,
+    "fp": 286,
+    "fn": 80,
+    "tp": 294
+  },
+  "Decision Tree (baseline)": {
+    "tn": 855,
+    "fp": 180,
+    "fn": 194,
+    "tp": 180
+  },
+  "Random Forest (baseline)": {
+    "tn": 922,
+    "fp": 113,
+    "fn": 190,
+    "tp": 184
+  },
+  "LDA (baseline)": {
+    "tn": 775,
+    "fp": 260,
+    "fn": 95,
+    "tp": 279
+  },
+  "Logistic Regression (tuned)": {
+    "tn": 748,
+    "fp": 287,
+    "fn": 82,
+    "tp": 292
+  },
+  "Decision Tree (tuned)": {
+    "tn": 758,
+    "fp": 277,
+    "fn": 76,
+    "tp": 298
+  },
+  "Random Forest (tuned)": {
+    "tn": 767,
+    "fp": 268,
+    "fn": 79,
+    "tp": 295
+  },
+  "LDA (tuned)": {
+    "tn": 746,
+    "fp": 289,
+    "fn": 78,
+    "tp": 296
+  }
+}
